@@ -50,12 +50,13 @@ QPushButton{
 
 #homeBtn{
 	border-left: 3px solid #cc5bce;
-	font-weight: bold;
+	font-weight: bold;	
 }
 
 QLineEdit{
 	padding: 5px 10px;
 	border-radius: 5px;
+	background: #4E4E4E;
 }
 
 

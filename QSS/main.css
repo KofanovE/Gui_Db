@@ -1679,4 +1679,5 @@ PlotWidget {
 
 QLineEdit {
   padding: 5px 10px;
-  border-radius: 5px; }
+  border-radius: 5px;
+  background: #4E4E4E; }

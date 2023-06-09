@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
 ################################################################################
-## Form generated from reading UI file 'interfaceZbAvUx.ui'
+## Form generated from reading UI file 'interfacelJScFC.ui'
 ##
 ## Created by: Qt User Interface Compiler version 5.15.2
 ##
@@ -58,12 +58,13 @@ class Ui_MainWindow(object):
 "\n"
 "#homeBtn{\n"
 "	border-left: 3px solid #cc5bce;\n"
-"	font-weight: bold;\n"
+"	font-weight: bold;	\n"
 "}\n"
 "\n"
 "QLineEdit{\n"
 "	padding: 5px 10px;\n"
 "	border-radius: 5px;\n"
+"	background: #4E4E4E;\n"
 "}\n"
 "\n"
 "\n"
